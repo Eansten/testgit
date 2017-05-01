@@ -14,5 +14,5 @@ while names_to_enter > names_entered:	#Iterate till all names entered
 	middle_name = input("Middle Name: ")
 	last_name = input("Last Name: ")
 	names_entered += 1
-	print()
+	print() 
 	print ("Member ", member_number, "is", first_name, middle_name, last_name)
